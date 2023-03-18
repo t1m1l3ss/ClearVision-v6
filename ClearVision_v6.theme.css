@@ -34,7 +34,7 @@
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: url('https://i.imgur.com/W12jeSA.png');
   --user-popout-position: center;
-  --user-popout-size: cover;
+  --user-popout-size: auto;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 100%;
@@ -45,7 +45,7 @@
   --user-popout-blur: 0px;
   --user-modal-image: url('https://i.imgur.com/A8XeCh0.png');
   --user-modal-position: center;
-  --user-modal-size: 200%;
+  --user-modal-size: auto;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
   --user-modal-brightness: 100%;
